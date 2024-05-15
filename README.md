@@ -17,33 +17,4 @@ Supplemental data is contained in 'src/data/':
 
 ## Learn more
 
-We've published a paper about SurVis at VAST 2015 - please reference it if you use or want to refer to SurVis in one of your publications. 
-
-Beck, Fabian; Koch, Sebastian; Weiskopf, Daniel: Visual Analysis and Dissemination of Scientific Literature Collections with SurVis. In: IEEE Transactions on Visualization and Computer Graphics (2016).
-
-* DOI: http://dx.doi.org/10.1109/TVCG.2015.2467757
-* Preview video: https://vimeo.com/136206061 
-
-## List of Literature Collections Using SurVis
-
-* Dynamic Graph Visualization - http://dynamicgraphs.fbeck.com
-* Visualizing Group Structures in Graphs - http://groups-in-graphs.corinna-vehlow.com/
-* Performance Visualization - http://idav.ucdavis.edu/~ki/STAR/
-* Visualization for Software Reuse - http://www.cos.ufrj.br/~schots/survis_reuse/
-* Sparklines - http://sparklines-literature.fbeck.com/
-* Survey of Surveys - http://sos.swansea.ac.uk/
-* Visual Approaches for Analyzing Scientific Literature and Patents - http://ieg.ifs.tuwien.ac.at/~federico/LiPatVis/
-* Visualizing High-Dimensional Data - http://www.sci.utah.edu/~shusenl/highDimSurvey/website/
-* Visualization of Cultural Heritage Collection Data - https://danubevislab.github.io/collectionvis/
-* Survey of Visual Summaries - http://graphics.cs.wisc.edu/Vis/vis_summaries/
-* Optimization of Parallel Computing Systems - http://www.smemeti.com/slr/
-* Deep learning visualizations - https://snie2012.github.io/deep-learning-vis-collection/
-* Visualization in Astrophysics - https://tdavislab.github.io/astrovis-survis/
-
-Please contact me (fabian.beck@uni-bamberg.de) if you know other collections using SurVis.
-
-## Contact
-
-Fabian Beck
-
-http://research.fbeck.com
+In this survis project, we entered 11 papers as the references of Literature Review.
