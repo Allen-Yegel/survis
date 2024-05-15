@@ -6,10 +6,6 @@ SurVis is a flexible online browser to present and analyze scientific literature
 
 Test SurVis with a reference literature database: http://dynamicgraphs.fbeck.com
 
-## How To Use SurVis for Your Literature Collection
-
-Dowload the [latest SurVis release](https://github.com/fabian-beck/survis/releases/latest) or fork this repository.
-
 To start SurVis, open 'src/index.html' in your browser.
 
 The bibliography data is stored in 'bib/references.bib' in BibTeX format.
